@@ -1,7 +1,7 @@
 ![MasterHead](https://giffiles.alphacoders.com/211/211931.gif)
 <h1 align="center">Hi 👋, I'm Goutham</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/QNBK.mp4">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkNDAzOWExMzMxOGQ1ODliZmZmMjU0NGY0NGI2NDkwMDdhZDg3NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tOVxw5cTv22Z2rS/giphy.gif">
 
 - 🔭 I’m currently working on **java**
 
