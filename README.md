@@ -3,13 +3,13 @@
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkNDAzOWExMzMxOGQ1ODliZmZmMjU0NGY0NGI2NDkwMDdhZDg3NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tOVxw5cTv22Z2rS/giphy.gif">
 
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **java,python,web development**
 
-- 🌱 I’m currently learning **java, git**
+- 🌱 I’m currently learning **python and webdev**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **gouthamsk7@gmail.com**
+- 📫 How to reach me **LinkedIn*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
