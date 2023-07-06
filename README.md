@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **LinkedIn*
+- 📫 How to reach me **LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
