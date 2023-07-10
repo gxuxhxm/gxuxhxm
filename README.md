@@ -10,7 +10,7 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **LinkedIn**
-[![GitHub Streak](https://streak-stats.demolab.com?user=gxuxhxm&theme=dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gxuxhxm&theme=dark&hide_border=true&hide_longest_streak=true)
 <h3 align="left"></h3>
 <p align="left">
 </p>
